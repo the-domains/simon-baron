@@ -1,0 +1,28 @@
+name: Simon Baron
+favicon: null
+layout_spectrum: 0.2008790778927505
+typography_spectrum: 0.7193834292702377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.39750880119390786
+  lightness: 0.24396461551077664
+  saturation: 0.6634402326308191
+  rhythmicContrast: 0.8342383014969528
+purpose: []
