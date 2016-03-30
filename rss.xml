@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Simon Baron]]></title>
         <description><![CDATA[Simon Baron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simon-baron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:29:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 21:38:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simon-baron/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I am real</p>]]></description>
-            <link>undefinedd6a72285-d9e1-4fb7-afd4-c32dda3bf488/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca496d74-e381-45e2-bb05-e14cec138310.jpg">]]></description>
+            <link>https://thegrid.ai/simon-baron/d6a72285-d9e1-4fb7-afd4-c32dda3bf488/index.html</link>
             <guid isPermaLink="false">d6a72285-d9e1-4fb7-afd4-c32dda3bf488</guid>
-            <pubDate>Wed, 30 Mar 2016 21:29:11 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 21:38:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
